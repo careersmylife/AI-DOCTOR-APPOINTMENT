@@ -1,0 +1,7 @@
+{
+  "name": "AI Doctor Appointment Booker",
+  "description": "A multilingual AI voice agent that books doctor appointments in English and Urdu. It validates availability and saves appointment data in a table.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
